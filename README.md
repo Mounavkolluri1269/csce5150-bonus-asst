@@ -15,9 +15,10 @@
 	Open the main script file in Python.
 6. Executing program
 	Colab Link:https://colab.research.google.com/drive/1DJYL7mmj6XqMK-dU7Ct_59-1kRA3bnNH?usp=sharing
+
 How to Run this program:
-Open the terminal or command prompt.
-Then, execute the following in the command line:
-python huffman_coding.py
-Please enter the number of characters, each character, followed by the frequency. This program will provide Huffman codes for the entered characters in.
+#Open the terminal or command prompt.
+#Then, execute the following in the command line:
+#python huffman_coding.py
+#Please enter the number of characters, each character, followed by the frequency. This program will provide Huffman codes for the entered characters in.
 	
